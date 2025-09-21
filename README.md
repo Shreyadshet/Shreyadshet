@@ -6,6 +6,8 @@ I’m a Full Stack Developer passionate about building efficient, scalable, and 
 ✨ With expertise in Java | Python | SQL | Spring Boot | React | REST APIs, I’m constantly improving my craft and exploring cutting-edge technologies in Cloud Platforms.
 
 
+
+
 🔭 What I’m Exploring
 
 ⚡ Advanced Spring Boot 
@@ -13,11 +15,14 @@ I’m a Full Stack Developer passionate about building efficient, scalable, and 
 ⚡ Modern Frontend with React.js
 
 
+
+
 💡 Areas of Interest
 
 Full Stack Development 
 System Design 
 Software Development
+
 
 
 💬 Let’s Talk About
@@ -32,7 +37,7 @@ React.js ⚛
 
 
 
----
+
 
 📫 Reach Me At
 
